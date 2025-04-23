@@ -1,1 +1,1 @@
-# SV_PRAC
+# System Verolog Learning
